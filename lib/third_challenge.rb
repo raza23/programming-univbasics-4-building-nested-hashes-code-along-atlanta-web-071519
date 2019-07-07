@@ -12,7 +12,7 @@ def third_challenge
         },
       :hero => {name:"Romeo",
         age:"15",
-        status:"Alive"
+        status:"alive"
         #your key/value pairs here
         },
       :hero_friends => []
@@ -29,7 +29,7 @@ def third_challenge
         },
       :heroine => {name:"Juliet",
         age:"15",
-        status:"Alive"
+        status:"alive"
         #your key/value pairs here
         },
       :heroine_friends => []
