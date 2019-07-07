@@ -5,31 +5,31 @@ def third_challenge
         age:"53"
         #your key/value pairs here
         },
-      :matriarch => {name:[],
-        age:[]
+      :matriarch => {name:"Lady Montague",
+        age:"54"
 
         #your key/value pairs here
         },
-      :hero => {name:[],
-        age:[],
-        status:[]
+      :hero => {name:"Romeo",
+        age:"15",
+        status:"Alive"
         #your key/value pairs here
         },
       :hero_friends => []
    },
    :capulet => {
-      :patriarch => {name:[],
-        age:[]
+      :patriarch => {name:"Lord Capulet",
+        age:"50"
         #your key/value pairs here
         },
       :matriarch => {
-        name:[],
-          age:[]
+        name:"Lady Capulet",
+          age:"51"
         #your key/value pairs here
         },
-      :heroine => {name:[],
-        age:[],
-        status:[]
+      :heroine => {name:"Juliet",
+        age:"15",
+        status:"Alive"
         #your key/value pairs here
         },
       :heroine_friends => []
