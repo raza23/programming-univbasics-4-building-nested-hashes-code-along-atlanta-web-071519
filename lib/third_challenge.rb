@@ -16,7 +16,7 @@ def third_challenge
         #your key/value pairs here
         },
       :hero_friends => [
-        { Name:"Benvolio",Age:"17",Attitude:"worried"}
+        { Name:"Benvolio",Age:"17",Attitude:"worried"},
         { Name:"Mercutio",Age:"18",Attitude:"hot-headed"}
       ]
    },
